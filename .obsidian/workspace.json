@@ -25,12 +25,14 @@
             "id": "82321fbe0a9d3bf0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "split-diff-view",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-04 21.00.31.excalidraw.md"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-04 21.00.31.excalidraw"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -107,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-04 21.00.31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2026-02-04 21.00.31.excalidraw"
+              "title": "Backlinks"
             }
           },
           {
@@ -126,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-04 21.00.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2026-02-04 21.00.31.excalidraw"
+              "title": "Outgoing links"
             }
           },
           {
@@ -169,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-04 21.00.31.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-02-04 21.00.31.excalidraw"
+              "title": "Outline"
             }
           },
           {
@@ -186,6 +185,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "eb40472eac300633",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
             }
           }
         ],
@@ -208,10 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91e9e3dffd8b9a6f",
+  "active": "82321fbe0a9d3bf0",
   "lastOpenFiles": [
-    "Text-Based Adventure Game.md",
     "Excalidraw/Drawing 2026-02-04 21.00.31.excalidraw.md",
+    "Text-Based Adventure Game.md",
     "Excalidraw",
     "Game Devlopment Checklist.md",
     "Text Adventure game guide.md",
