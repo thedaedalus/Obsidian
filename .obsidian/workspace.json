@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Text-Based Adventure Game.md",
+                "file": "Game Project/Text-Based Adventure Game.md",
                 "mode": "source",
                 "source": false
               },
@@ -25,14 +25,14 @@
             "id": "82321fbe0a9d3bf0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Game Project/Game Devlopment Checklist.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Game Devlopment Checklist"
             }
           }
         ],
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Project/Game Devlopment Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Game Devlopment Checklist"
             }
           },
           {
@@ -127,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Project/Game Devlopment Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Game Devlopment Checklist"
             }
           },
           {
@@ -169,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Game Project/Game Devlopment Checklist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Game Devlopment Checklist"
             }
           },
           {
@@ -192,9 +195,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Game Project/Game Devlopment Checklist.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Game Devlopment Checklist"
             }
           }
         ],
@@ -220,10 +225,11 @@
   "active": "82321fbe0a9d3bf0",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-02-04 21.00.31.excalidraw.md",
-    "Text-Based Adventure Game.md",
+    "Game Project",
+    "Game Project/Text Adventure game guide.md",
+    "Game Project/Text-Based Adventure Game.md",
+    "Game Project/Game Devlopment Checklist.md",
     "Excalidraw",
-    "Game Devlopment Checklist.md",
-    "Text Adventure game guide.md",
     "Welcome.md",
     "Untitled.md",
     "Untitled 1.md"
